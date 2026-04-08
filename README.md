@@ -4,6 +4,7 @@
 
 LyonsType's Soul (`LT Soul`) is a Latin (ID: `*Latn`) Serif font designed by
 [The LyonsType's Soul Project Team](https://lyonstype.neocities.org/fonts).
+Its design is based on standard Serif font for no non-sense presentation.
 
 This font is ideal for any general use like poster title, poster text, poster
 footer text, movie title, movie notice headings, movie notice text, body
